@@ -1,2 +1,1 @@
-# MK-AI
-ini adalah proses belajar mata kuliah KECERDASAN BUATAN .
+#deteksi bahasa menggunakan python
