@@ -7,7 +7,7 @@
 # execute :
 - melalui command line
 - python deteksi-bahasa.py
-OR
+- OR
 - dobel klik pada program
 
 # install langdetect :
